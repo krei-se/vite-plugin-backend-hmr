@@ -1,3 +1,13 @@
+This fork is deprecated and not needed anymore as i went on to esbuild.
+
+
+
+
+
+
+
+
+
 # vite-plugin-backend-hmr
 Plugins that support normal hot updates in back-end projects
 
